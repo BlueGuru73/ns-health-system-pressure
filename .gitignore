@@ -14,5 +14,5 @@ Thumbs.db
 # Data: do not commit raw downloads
 data_raw/
 
-# Optional: keep processed outputs versioned
-# data_processed/
+# If you later add Streamlit or app build artifacts, ignore here
+# .streamlit/
