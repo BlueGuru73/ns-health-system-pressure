@@ -1,0 +1,18 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data: do not commit raw downloads
+data_raw/
+
+# Optional: keep processed outputs versioned
+# data_processed/
