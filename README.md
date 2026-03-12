@@ -234,6 +234,14 @@ Future improvements could include:
 
 ---
 
+## Capstone Written Responses
+
+Formal written responses for the capstone evaluation are available here:
+
+[Capstone Written Responses](Capstone_Written_Responses.md)
+
+---
+
 # Author
 
 **Carole Potter**  
