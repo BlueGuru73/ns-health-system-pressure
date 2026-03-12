@@ -107,6 +107,8 @@ The visualization shows:
   - Comparatively stable EMS demand
   - Divergence between upstream and downstream signals
 This supports the modeling finding that primary care access signals alone only partially explain EMS pressure.
+Dashboard Visualization
+![Primary Care vs EMS Demand](images/early_warning_dashboard.png)
 
 Interpretation
 Primary care access activity demonstrates measurable association with EMS demand but does not independently predict acute system pressure.
