@@ -222,15 +222,25 @@ This project demonstrates:
 - Building clean time series signals from public health data
 - Translating domain assumptions into measurable indicators
 - Designing interpretable predictive models
-- Communicating findings visually
-- Managing a full analytics workflow in version control
+- Communicating findings through clear visualizations
+- Managing a full analytics workflow using version control
 
 Future improvements could include:
 
 - Additional lag structures
-- Cross validation
-- External demographic features
-- Alternative model types such as tree based methods
+- Cross-validation techniques
+- Incorporation of external demographic features
+- Exploration of alternative model types, such as tree-based methods
+  
+This project represents an initial exploration of health system pressure signals. As a continuation of this work, I plan to develop an independent analysis examining the underlying factors associated with emergency department wait times in Canada and Nova Scotia. This next phase will explore relationships between healthcare demand, hospital capacity, and seasonal trends to better understand how system strain develops and how early signals may help anticipate periods of increased pressure.  
+
+---
+
+## Capstone Written Responses
+
+Formal written responses for the capstone evaluation are available here:
+
+[Capstone Written Responses](Capstone_Written_Responses.md)
 
 ---
 
