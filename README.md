@@ -15,6 +15,12 @@ This capstone demonstrates an end-to-end analytics workflow including:
 - Version control using Git and GitHub
 
 ---
+## Project Walkthrough Video
+
+Watch the full walkthrough here:  
+👉 https://www.loom.com/share/0fd58458c1d849ef9415f3263d5ae8b1
+
+---
 
 ## Problem Definition
 
